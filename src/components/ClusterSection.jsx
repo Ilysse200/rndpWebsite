@@ -11,7 +11,7 @@ const clusters = [
   },
   {
     title: "Processors Cluster",
-    description: "This cluster is composed of individual, company as well as",
+    description: "This cluster is composed of individual, company as well",
     image,
     slug: "processors",
   },
